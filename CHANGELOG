@@ -1,0 +1,7 @@
+v0.1
+first release
+-created pattern regexp
+-detect with find and grep
+-cleanup with find and sed
+-help
+-startup checks
